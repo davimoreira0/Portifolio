@@ -32,7 +32,7 @@ O resultado mais importante foi obtido durante a execução dos scripts associad
 
 Essa etapa foi essencial para definir o próximo passo da exploração.
 
-![Resultado da enumeração com Nmap](NmapMapping.png)
+![Resultado da enumeração com Nmap](Images/NmapMapping.png)
 
 *Figura 1 — Varredura do alvo, portas identificadas e informações obtidas pelos scripts do Nmap.*
 
@@ -46,7 +46,7 @@ ssh ubunto@10.64.175.146
 
 Após executar o comando, informei a senha descoberta na etapa anterior. Com a autenticação concluída, consegui acessar o ambiente remoto e continuar a busca pela flag.
 
-![Acesso ao servidor via SSH](SSHInvasion.png)
+![Acesso ao servidor via SSH](Images/SSHInvasion.png)
 
 *Figura 2 — Conexão SSH estabelecida utilizando as credenciais encontradas durante a enumeração.*
 
@@ -58,7 +58,7 @@ A busca foi realizada diretamente no ambiente remoto, sem a necessidade de utili
 
 A captura de tela abaixo registra essa etapa. O conteúdo da flag foi borrado para evitar sua divulgação.
 
-![Localização da flag](flag.png)
+![Localização da flag](Images/flag.png)
 
 *Figura 3 — Localização do arquivo `flag.txt`. O conteúdo foi ocultado na imagem.*
 
@@ -66,7 +66,7 @@ A captura de tela abaixo registra essa etapa. O conteúdo da flag foi borrado pa
 
 O laboratório foi concluído com sucesso. Também registrei a classificação exibida na plataforma, na qual meu nome de usuário, **Cyb3rDavi**, aparece entre os participantes.
 
-![Classificação do laboratório](Chart.png)
+![Classificação do laboratório](Images/Chart.png)
 
 *Figura 4 — Classificação exibida pelo TryHackMe.*
 
