@@ -51,6 +51,7 @@ Este repositório funciona como meu portfólio e caderno de estudos. A estrutura
 ├── Cybersecurity/
 │   ├── README.md
 │   └── TryHackMeLabs/
+│       ├── README.md
 │       ├── IntermediateNmap/
 │       │   ├── README.md
 │       │   └── Images/
@@ -59,19 +60,17 @@ Este repositório funciona como meu portfólio e caderno de estudos. A estrutura
 │           └── Images/
 ├── Certificates/
 │   ├── README.md
-│   └── Certificates/
+│   └── Certificates/ (arquivos de imagem)
 └── Programming/
+    ├── README.md
     ├── bash/
-    │   └── preview.txt
-    ├── c++/
-    │   └── preview.txt
+    ├── cpp/
     └── python/
-        ├── bibliotecas/
-        │   ├── Requests/
-        │   │   ├── readme.md
-        │   │   └── Scripts/ (exemplos .py)
-        │   └── Socket/
-        └── linguagem/
+        ├── README.md
+        └── bibliotecas/
+            └── Requests/
+                ├── README.md
+                └── Scripts/ (64 exemplos .py)
 ```
 
 ### `Cybersecurity/`
@@ -84,6 +83,6 @@ Contém o [índice dos certificados](Certificates/README.md) e os arquivos de im
 
 ### `Programming/`
 
-Organiza estudos e exemplos de Bash, C++ e Python. Em Python, a pasta `bibliotecas/Requests/` contém um [guia](Programming/python/bibliotecas/Requests/readme.md) e scripts independentes na pasta `Scripts/`.
+Organiza pastas de estudo para [Bash, C++ e Python](Programming/README.md). A pasta `Programming/cpp/` usa `cpp` no caminho para facilitar navegação e comandos. Em Python, `bibliotecas/Requests/` contém um [guia](Programming/python/bibliotecas/Requests/README.md) e 64 scripts independentes na pasta `Scripts/`.
 
 Este portfólio está em constante evolução — assim como meus conhecimentos. Obrigado por visitar!
