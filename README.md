@@ -44,29 +44,46 @@ Esses objetivos fazem parte de um processo contínuo de estudo. Por enquanto, si
 
 ## Sobre este repositório
 
-Este repositório funciona como meu portfólio e caderno de estudos. Aqui organizo projetos, materiais de programação e registros das minhas práticas em cibersegurança.
+Este repositório funciona como meu portfólio e caderno de estudos. A estrutura atual reúne materiais de programação, laboratórios de cibersegurança e certificados.
 
 ```text
 .
 ├── Cybersecurity/
 │   ├── README.md
 │   └── TryHackMeLabs/
-│       └── IntermediateNmap/
+│       ├── IntermediateNmap/
+│       │   ├── README.md
+│       │   └── Images/
+│       └── ToolsRus/
 │           ├── README.md
 │           └── Images/
 ├── Certificates/
-|   ├── README.md
-|   └── Certificates/
+│   ├── README.md
+│   └── Certificates/
 └── Programming/
-    └── preview.txt
+    ├── bash/
+    │   └── preview.txt
+    ├── c++/
+    │   └── preview.txt
+    └── python/
+        ├── bibliotecas/
+        │   ├── Requests/
+        │   │   ├── readme.md
+        │   │   └── Scripts/ (exemplos .py)
+        │   └── Socket/
+        └── linguagem/
 ```
 
 ### `Cybersecurity/`
 
-Reúne documentação dos estudos e laboratórios de cibersegurança. Cada laboratório pode ter sua própria pasta com anotações, explicações e imagens. Por exemplo, `TryHackMeLabs/IntermediateNmap/` contém a documentação e as imagens relacionadas ao laboratório Intermediate Nmap.
+Reúne documentação dos laboratórios concluídos no TryHackMe. Cada laboratório tem anotações e, quando necessário, imagens. Atualmente há registros de `IntermediateNmap` e `ToolsRus`.
+
+### `Certificates/`
+
+Contém o [índice dos certificados](Certificates/README.md) e os arquivos de imagem correspondentes.
 
 ### `Programming/`
 
-Área destinada a projetos, experimentos e materiais de programação. Ela será ampliada à medida que novos trabalhos forem desenvolvidos.
+Organiza estudos e exemplos de Bash, C++ e Python. Em Python, a pasta `bibliotecas/Requests/` contém um [guia](Programming/python/bibliotecas/Requests/readme.md) e scripts independentes na pasta `Scripts/`.
 
 Este portfólio está em constante evolução — assim como meus conhecimentos. Obrigado por visitar!
