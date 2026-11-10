@@ -44,7 +44,7 @@ Esses objetivos fazem parte de um processo contínuo de estudo. Por enquanto, si
 
 ## Sobre este repositório
 
-Este repositório funciona como meu portfólio e caderno de estudos. A estrutura atual reúne materiais de programação, laboratórios de cibersegurança e certificados.
+Este repositório funciona como meu portfólio. Ele reúne documentação dos projetos que desenvolvi, laboratórios de cibersegurança e certificados. A área de programação é dedicada somente à documentação: não contém scripts nem código-fonte de linguagens.
 
 ```text
 .
@@ -64,13 +64,11 @@ Este repositório funciona como meu portfólio e caderno de estudos. A estrutura
 └── Programming/
     ├── README.md
     ├── bash/
+    │   └── README.md
     ├── cpp/
+    │   └── README.md
     └── python/
-        ├── README.md
-        └── bibliotecas/
-            └── Requests/
-                ├── README.md
-                └── Scripts/ (64 exemplos .py)
+        └── README.md
 ```
 
 ### `Cybersecurity/`
@@ -83,6 +81,6 @@ Contém o [índice dos certificados](Certificates/README.md) e os arquivos de im
 
 ### `Programming/`
 
-Organiza pastas de estudo para [Bash, C++ e Python](Programming/README.md). A pasta `Programming/cpp/` usa `cpp` no caminho para facilitar navegação e comandos. Em Python, `bibliotecas/Requests/` contém um [guia](Programming/python/bibliotecas/Requests/README.md) e 64 scripts independentes na pasta `Scripts/`.
+Organiza a [documentação dos projetos por linguagem](Programming/README.md), mantendo pastas para Bash, C++ e Python. Esta área contém somente documentação, sem scripts ou código-fonte. As pastas de linguagens permanecem preparadas para receber a documentação dos projetos correspondentes.
 
 Este portfólio está em constante evolução — assim como meus conhecimentos. Obrigado por visitar!

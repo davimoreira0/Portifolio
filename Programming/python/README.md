@@ -1,7 +1,7 @@
 # Python
 
-Esta pasta reúne estudos e exemplos de Python. Os materiais de bibliotecas ficam em `bibliotecas/`.
+Esta pasta reúne a documentação dos projetos que desenvolvi em Python. O objetivo é apresentar cada projeto, explicar sua proposta e registrar as principais decisões e aprendizados.
 
-- [Guia e exemplos da biblioteca Requests](./bibliotecas/Requests/README.md)
+Esta área do portfólio contém somente documentação, não scripts nem código-fonte. Novos projetos serão organizados aqui conforme forem documentados.
 
-Os scripts individuais de Requests estão em [`bibliotecas/Requests/Scripts/`](./bibliotecas/Requests/Scripts/).
+Ainda não há projetos documentados nesta pasta.

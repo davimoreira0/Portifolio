@@ -1,9 +1,9 @@
 # Programação
 
-Pastas de estudo organizadas por linguagem:
+Esta área reúne somente a documentação dos projetos desenvolvidos em cada linguagem. Scripts e código-fonte não fazem parte desta seção.
 
-- [`bash/`](./bash/): Bash.
-- [`cpp/`](./cpp/): C++.
-- [`python/`](./python/): Python e materiais de bibliotecas.
+- [`bash/`](./bash/): documentação de projetos em Bash.
+- [`cpp/`](./cpp/): documentação de projetos em C++.
+- [`python/`](./python/): documentação de projetos em Python.
 
-O guia disponível atualmente está na área de Python e documenta a biblioteca Requests.
+As pastas de Bash e C++ permanecem no portfólio e receberão documentação conforme os projetos forem adicionados.
