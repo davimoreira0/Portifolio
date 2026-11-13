@@ -1,7 +1,9 @@
 # Python
 
-Esta pasta reúne a documentação dos projetos que desenvolvi em Python. O objetivo é apresentar cada projeto, explicar sua proposta e registrar as principais decisões e aprendizados.
+Esta pasta reúne a documentação dos projetos que desenvolvi em Python. Cada projeto tem sua própria pasta com uma apresentação e os materiais relacionados.
 
-Esta área do portfólio contém somente documentação, não scripts nem código-fonte. Novos projetos serão organizados aqui conforme forem documentados.
+## Projetos
 
-Ainda não há projetos documentados nesta pasta.
+- [AutoNmap](./AutoNmap/README.md) — documentação de uma interface interativa para uso do Nmap.
+
+Esta área do portfólio contém documentação e imagens de apoio, não scripts nem código-fonte.

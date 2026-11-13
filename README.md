@@ -68,7 +68,10 @@ Este repositório funciona como meu portfólio. Ele reúne documentação dos pr
     ├── cpp/
     │   └── README.md
     └── python/
-        └── README.md
+        ├── README.md
+        └── AutoNmap/
+            ├── README.md
+            └── images/
 ```
 
 ### `Cybersecurity/`
@@ -81,6 +84,6 @@ Contém o [índice dos certificados](Certificates/README.md) e os arquivos de im
 
 ### `Programming/`
 
-Organiza a [documentação dos projetos por linguagem](Programming/README.md), mantendo pastas para Bash, C++ e Python. Esta área contém somente documentação, sem scripts ou código-fonte. As pastas de linguagens permanecem preparadas para receber a documentação dos projetos correspondentes.
+Organiza a [documentação dos projetos por linguagem](Programming/README.md), mantendo pastas para Bash, C++ e Python. Esta área contém somente documentação e materiais visuais, sem scripts ou código-fonte. A pasta Python já inclui a documentação do [AutoNmap](Programming/python/AutoNmap/README.md); Bash e C++ permanecem preparados para receber novos projetos.
 
 Este portfólio está em constante evolução — assim como meus conhecimentos. Obrigado por visitar!

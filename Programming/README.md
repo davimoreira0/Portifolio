@@ -4,6 +4,6 @@ Esta área reúne somente a documentação dos projetos desenvolvidos em cada li
 
 - [`bash/`](./bash/): documentação de projetos em Bash.
 - [`cpp/`](./cpp/): documentação de projetos em C++.
-- [`python/`](./python/): documentação de projetos em Python.
+- [`python/`](./python/): documentação de projetos em Python, incluindo [AutoNmap](./python/AutoNmap/README.md).
 
-As pastas de Bash e C++ permanecem no portfólio e receberão documentação conforme os projetos forem adicionados.
+As pastas de Bash e C++ permanecem no portfólio e receberão documentação conforme novos projetos forem adicionados.
